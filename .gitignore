@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vector index / generated artifacts
+faiss_index/
+db/
+

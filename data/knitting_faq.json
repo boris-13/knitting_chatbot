@@ -1,0 +1,1014 @@
+{
+  "faqs": [
+    {
+      "category": "Yarn types & care",
+      "question": "What are the main types of natural yarn fibers?",
+      "answer": "The main natural yarn fibers include wool (from sheep), alpaca, cotton, silk, cashmere (from goats), mohair (from Angora goats), and linen (from flax). Each has unique properties in terms of elasticity, warmth, and breathability."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What is superwash wool?",
+      "answer": "Superwash wool is treated to prevent felting and shrinkage, making it machine washable on gentle cycles. It is ideal for socks, baby clothes, and items that require regular washing."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What is superwool?",
+      "answer": "Superwool is just fictional word, no matter what you meant by this, porque no se que es este palabra."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What is superyarn?",
+      "answer": "Superyarn is just another fictional word, porque no se que es este palabra y трудно, потому что я не знаю, что это за слово."
+    },    
+    {
+      "category": "Yarn types & care",
+      "question": "How should I wash regular (non-superwash) wool yarn items?",
+      "answer": "Hand wash in cold water with a pH-neutral or wool-specific detergent. Do not wring or twist. Gently squeeze out water and dry flat on a towel away from heat sources."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How do I care for cotton yarn garments?",
+      "answer": "Cotton is durable but lacks elasticity. It can be machine washed on a gentle cycle using cold or warm water. Avoid high heat when drying; air drying is best to prevent shrinking."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What is the difference between alpaca and wool yarn?",
+      "answer": "Alpaca yarn is softer, warmer, and less itchy than wool. It lacks elasticity, making it more prone to stretching, and requires gentle hand washing in cold water."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How can I prevent wool from felting?",
+      "answer": "Avoid hot water, friction, and agitation during washing. Use a gentle hand-washing technique or a wool-friendly machine cycle with minimal spin."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "Can I mix yarns with different fiber contents in one project?",
+      "answer": "Yes, but test a swatch first. Different fibers can behave differently in gauge, drape, and wash response. Blends may shrink or stretch unevenly."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What is a yarn blend and why is it used?",
+      "answer": "A yarn blend combines two or more fibers (e.g., wool-acrylic, cotton-bamboo) to optimize texture, durability, elasticity, and cost. Blends aim to harness the strengths of each fiber."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How do I block a wool vs. cotton project?",
+      "answer": "Wool responds well to wet or steam blocking. Cotton is best wet-blocked and pinned to shape as it tends to hold form after drying."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What's the best way to dry hand-washed wool items?",
+      "answer": "Roll in a towel to remove excess water, then reshape and lay flat on a dry towel or mesh rack. Do not hang or expose to direct heat."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "Is it safe to iron knitted yarn items?",
+      "answer": "Avoid ironing most yarns. Steam blocking is preferred. Acrylic may melt under heat, and wool can scorch. Use a pressing cloth and minimal heat if absolutely necessary."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How do I choose yarn for sensitive skin?",
+      "answer": "Opt for soft fibers like baby alpaca, bamboo, or high-quality cotton. Avoid itchy or coarse wool and check for hypoallergenic labels."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What's the difference between mercerized and unmercerized cotton?",
+      "answer": "Mercerized cotton has a shiny finish and stronger structure, making it more durable and colorfast. Unmercerized cotton is softer and more absorbent but less shiny."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How do I test for colorfastness before washing yarn projects?",
+      "answer": "Wet a swatch and blot it with a white cloth. If color transfers, it may bleed during washing. Wash separately or use a color catcher."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "Does alpaca yarn stretch over time?",
+      "answer": "Yes, alpaca has poor memory and may stretch with wear. Use smaller needles or blend with wool to maintain shape."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "Can I use cotton yarn for winter garments?",
+      "answer": "Cotton lacks insulating properties and is not ideal for cold weather. It's better for summer garments, dishcloths, or baby items."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How does bamboo yarn behave in garments?",
+      "answer": "Bamboo yarn is soft, silky, and breathable, making it great for summer wear. It drapes well but can be slippery and stretch with wear."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "Can I tumble dry wool blends?",
+      "answer": "Avoid tumble drying unless specifically labeled safe. Even small wool content can cause shrinkage or felting. Air dry flat when in doubt."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "How do I store natural fiber yarns to prevent damage?",
+      "answer": "Store in breathable containers with cedar or lavender sachets. Avoid plastic bags in humid environments. Keep away from sunlight and pests."
+    },
+    {
+      "category": "Yarn types & care",
+      "question": "What's the difference between plant-based and animal-based yarn fibers?",
+      "answer": "Plant fibers (like cotton, flax) are breathable and absorbent but not elastic. Animal fibers (like wool, alpaca) provide warmth and stretch but require gentler care."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What are the main types of knitting needle materials?",
+      "answer": "The most common materials are metal (aluminum, stainless steel), bamboo, wood, and plastic. Each affects speed, grip, and feel differently."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "When should I use metal knitting needles?",
+      "answer": "Metal needles are best for fast knitters or sticky yarns. Their smooth surface allows quick stitching but can be slippery for beginners."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What are the benefits of bamboo knitting needles?",
+      "answer": "Bamboo needles offer a warm, flexible grip and prevent stitches from slipping easily. They're great for beginners or working with slippery yarns."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "How do wooden needles differ from bamboo?",
+      "answer": "Wooden needles are smoother and more polished than bamboo, often offering slightly more glide and durability, but less flexibility."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "When are plastic knitting needles a good option?",
+      "answer": "Plastic needles are lightweight and inexpensive. They're ideal for beginners and suitable for large projects using bulky yarns."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What are interchangeable needle sets?",
+      "answer": "These sets include detachable tips and cables, allowing you to create custom lengths and switch needle sizes without buying many fixed sets."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "Are there any downsides to interchangeable needles?",
+      "answer": "Loose connections or rough joins can snag yarn. Cheap sets may unscrew during knitting unless tightened well with included tools."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "How do I choose between straight and circular needles?",
+      "answer": "Straight needles are traditional and best for flat pieces. Circulars are more ergonomic and versatile, allowing flat or round knitting."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What are double-pointed needles (DPNs)?",
+      "answer": "DPNs are sets of 4 or 5 short needles with points at both ends, used for knitting small tubes like socks, sleeves, and hats in the round."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "When should I use circular needles over DPNs?",
+      "answer": "Circulars are better for larger round projects and are more ergonomic. Magic Loop method on circulars can replace DPNs for small tubes."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What is the Magic Loop method?",
+      "answer": "It's a way to knit small circumferences using a long circular needle by pulling a loop of cable between stitches to divide the round."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "How do I choose the right crochet hook material?",
+      "answer": "Steel hooks are ideal for lace and fine thread. Aluminum is fast and smooth. Bamboo/wood offers grip and comfort. Ergonomic handles reduce hand fatigue."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What is an ergonomic crochet hook?",
+      "answer": "These hooks have soft, shaped handles designed to reduce hand strain during long sessions - popular with those who have arthritis or wrist pain."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "Are interchangeable crochet hooks available?",
+      "answer": "Yes, some brands offer interchangeable hook tips with various cable lengths for Tunisian crochet or modular systems for standard crochet."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What is a cable needle and how is it used?",
+      "answer": "A cable needle holds stitches temporarily when knitting cables, letting you twist or cross stitches for textured patterns."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "How do needle tip shapes vary and why does it matter?",
+      "answer": "Some needles have sharp tips for lace or intricate work; others are blunt for chunkier yarns or relaxed knitting styles."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "Do needle lengths matter?",
+      "answer": "Yes. Shorter needles are better for small items or tight spaces. Longer needles help when handling many stitches or heavy projects."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "How do I prevent interchangeable needles from unscrewing?",
+      "answer": "Use the included tightening tool to secure joints firmly. Periodically check the connection while knitting, especially with twisting stitches."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "What is the best needle type for beginners?",
+      "answer": "Bamboo or wood needles are often recommended - they provide grip and control, helping to prevent accidental stitch loss."
+    },
+    {
+      "category": "Needle/hook types",
+      "question": "Are there left-handed knitting needles?",
+      "answer": "All knitting needles can be used by left-handed knitters. Patterns are typically mirrored, and some video tutorials are tailored for left-hand users."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "What temperature should I use to wash wool garments?",
+      "answer": "Always use cold water (under 30C / 86F) to prevent felting and shrinking. Hot water can irreversibly damage wool fibers."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Can I wash hand-knitted items in a washing machine?",
+      "answer": "Only if they're made with superwash wool or labeled machine washable. Use a gentle or wool cycle, cold water, and a mesh laundry bag."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "What type of detergent is best for wool?",
+      "answer": "Use a wool-specific or pH-neutral detergent without enzymes or bleach. Baby shampoo or lanolin-based soaps are also gentle alternatives."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How should I dry wool items after washing?",
+      "answer": "Roll the item in a towel to remove moisture, then lay it flat on a dry towel or mesh drying rack, reshaping as needed. Never hang or wring."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Is it okay to use a dryer for knitted items?",
+      "answer": "Generally no. The high heat and tumbling can cause shrinking, felting, or distortion. Some superwash yarns may tolerate low heat tumble drying, but air drying is safest."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "What is the ideal RPM (spin speed) for wool in a washing machine?",
+      "answer": "Use the lowest spin speed available, ideally below 600 RPM, to minimize agitation and prevent felting or stretching."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How do I dry cotton knitted garments?",
+      "answer": "Cotton can be air dried or tumble dried on low heat. To prevent shrinking and maintain shape, lay flat to dry whenever possible."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Can I wash alpaca the same way as wool?",
+      "answer": "Yes, alpaca also needs gentle hand washing in cold water with wool-safe detergent. It's more delicate and lacks elasticity, so reshape carefully."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How often should I wash hand-knit sweaters?",
+      "answer": "After 5-6 wears or when soiled. Frequent washing can wear down fibers, so spot-clean when possible and air out between uses."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How can I avoid pilling when washing knits?",
+      "answer": "Turn garments inside out, use a gentle cycle or hand wash, and avoid friction. Avoid tumble drying and dry flat instead."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Can I use fabric softener on wool or hand-knit items?",
+      "answer": "No. Fabric softeners can coat fibers and reduce breathability. Use wool wash or lanolin rinse for added softness if needed."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "What's the best way to remove odors from wool without washing?",
+      "answer": "Air the item outdoors in a shaded, dry area. For stronger odors, use a wool-safe fabric spray or hang in a steamy bathroom to freshen."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Can I bleach or spot-treat stains on wool?",
+      "answer": "Never use bleach. Spot-treat with wool wash or a mild vinegar solution. Always test on a hidden area first and rinse gently."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Is steam safe for drying or blocking knits?",
+      "answer": "Yes, steam is safe for wool and most fibers when used carefully. Use a steam iron held above the fabric without pressing down."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How do I dry bulky or thick hand-knitted items?",
+      "answer": "Use a towel to absorb excess moisture, then dry flat with good airflow. Flip the item occasionally to speed up drying."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Are there eco-friendly detergents suitable for yarn care?",
+      "answer": "Yes. Look for biodegradable, unscented, phosphate-free detergents like Eucalan, Soak, or homemade wool washes with essential oils."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How can I prevent mildew on drying yarn or garments?",
+      "answer": "Ensure good ventilation, avoid drying in humid rooms, and place garments on breathable mesh racks instead of dense towels."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "Is sun drying okay for hand-knits?",
+      "answer": "Avoid direct sunlight for extended periods. It can cause fading and fiber weakening. Dry in a shaded, well-ventilated area instead."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "What's the best way to dry synthetic yarn garments?",
+      "answer": "Acrylic and synthetics can usually be machine dried on low heat, but check labels. Lay flat to prevent warping for best results."
+    },
+    {
+      "category": "Washing & drying",
+      "question": "How do I reshape knits after washing?",
+      "answer": "Lay the garment flat on a towel, gently pull into original dimensions, and pin if needed. Let dry completely before moving."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What yarn is best for knitting a warm sweater?",
+      "answer": "Wool and alpaca are ideal for warm sweaters due to their excellent insulation and elasticity. Blends with acrylic can add durability and reduce cost."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I choose the right size when knitting a sweater?",
+      "answer": "Take accurate body measurements and choose the closest size based on pattern schematics. Consider ease (tight or loose fit) and swatch for gauge."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What is the difference between drop shoulder and raglan sweater construction?",
+      "answer": "Drop shoulders have straight shoulder seams and are simpler to knit. Raglan sleeves are shaped diagonally from neck to underarm, offering more movement and shaping."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I prevent sagging in knit sweaters?",
+      "answer": "Use elastic fibers or blends, tighter stitches, and ribbing at cuffs and hems. Blocking can help reshape and firm up the fabric post-wash."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What yarn works best for socks?",
+      "answer": "Choose a blend of wool with 20-30% nylon for elasticity and durability. Superwash wool is ideal for easy washing. Avoid 100% cotton - it stretches out easily."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What is the best stitch pattern for sock heels?",
+      "answer": "Slip stitch or Eye of Partridge heel stitch patterns provide extra padding and strength, making heels last longer and resist wear."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "Can I knit scarves with lace yarn?",
+      "answer": "Yes, lace yarn creates delicate, lightweight scarves. Use larger needles than usual to open up the lace pattern and show off the texture."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I stop the edges of a scarf from curling?",
+      "answer": "Use garter stitch borders, ribbing, or seed stitch at the edges. Blocking also helps flatten and shape the scarf properly."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What's the best yarn for gloves and mittens?",
+      "answer": "Wool or wool blends are best for warmth and stretch. For more durability and less pilling, use yarn with some nylon or tightly spun wool."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I shape fingers in knitted gloves?",
+      "answer": "Use double-pointed or Magic Loop methods. Each finger is knit separately after placing stitches on holders. Decrease stitches to shape tips."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What yarn weight is best for beanies and hats?",
+      "answer": "Worsted or DK weight yarns are most common. Use chunky yarns for extra warmth, and lighter yarns for fitted or fashion-forward designs."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I make sure a beanie fits snugly?",
+      "answer": "Use ribbing at the brim, and choose a size 1-2 inches smaller than head circumference (negative ease) for a firm fit."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What techniques can I use to knit socks without seams?",
+      "answer": "Toe-up or top-down methods with circular needles or DPNs allow seamless construction. Kitchener stitch closes the toe invisibly."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I knit a scarf that doesn't roll up?",
+      "answer": "Avoid pure stockinette stitch. Use garter, rib, or add a garter/seed stitch border. Blocking after knitting helps maintain shape."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "Can I use variegated yarn for sweaters?",
+      "answer": "Yes, but alternate skeins every 2 rows to blend color transitions and avoid pooling. Choose simple stitch patterns to let colors shine."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "What is the best cast-on method for hats?",
+      "answer": "Use stretchy cast-ons like the Long Tail or German Twisted method for a flexible hat brim that doesn't constrict."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I knit fingerless gloves?",
+      "answer": "Follow glove patterns but stop before completing fingers, finishing with ribbing. Thumb holes can be added by binding off and casting on stitches."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I keep my scarf ends from fraying?",
+      "answer": "Finish with a bind-off that matches the tension of your knitting. Optional fringe or i-cord edging can reinforce and beautify the ends."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "Should I block a knitted hat?",
+      "answer": "Yes, lightly steam or wet-block hats to smooth stitches and set shape. Use a balloon or plate to shape while drying, depending on the hat type."
+    },
+    {
+      "category": "Garment-specific",
+      "question": "How do I prevent socks from slipping down?",
+      "answer": "Knit a snug ribbed cuff with elastic yarn, ensure proper negative ease, and consider using twisted rib for extra grip."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What are stitch markers and how are they used?",
+      "answer": "Stitch markers are small rings or clips placed on needles to mark pattern repeats, increases, decreases, or the beginning of a round."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What's the difference between locking and ring stitch markers?",
+      "answer": "Ring markers slide on needles and are great for in-round knitting. Locking markers clip onto stitches and are perfect for crochet or marking specific stitch locations."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "When should I use a row counter?",
+      "answer": "Row counters help track rows or pattern repeats, especially in complex projects where losing your place can cause errors."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a blocking mat?",
+      "answer": "A blocking mat is a padded, heat-resistant surface used to pin and shape knit or crochet items after washing or steaming."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "Why is blocking important in knitting?",
+      "answer": "Blocking evens out stitches, sets the final shape and size of a piece, and opens up lace or textured patterns for better definition."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "How do I use blocking wires?",
+      "answer": "Insert wires along the edges of your piece to achieve straight lines or curves. Pin the wires in place on a mat and steam or wet-block."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a yarn swift and why would I need one?",
+      "answer": "A yarn swift holds hanks of yarn in place while they are wound into balls, preventing tangling and making winding easier and faster."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a ball winder?",
+      "answer": "A ball winder creates center-pull yarn cakes from hanks or skeins, allowing for easier storage and consistent tension during knitting."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What are tapestry needles used for?",
+      "answer": "Tapestry needles, with large eyes and blunt tips, are used to weave in yarn ends, sew seams, and perform Kitchener stitch or grafting."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "Do I need a gauge ruler?",
+      "answer": "Yes, a gauge ruler helps you count stitches and rows per inch in a swatch, ensuring your project matches the pattern's required size."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What are knitting needle point protectors?",
+      "answer": "Point protectors cap the tips of needles to prevent stitches from sliding off and to keep sharp points from damaging storage bags."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What are cable needles and how do they work?",
+      "answer": "Cable needles hold stitches temporarily when working cable patterns. They come in straight or curved styles to suit different preferences."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "Is a project bag necessary for knitters?",
+      "answer": "While not essential, project bags protect yarn and tools, keep work organized, and allow for portable, tangle-free knitting."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "How do you use a yarn bobbin?",
+      "answer": "Yarn bobbins are used in colorwork to manage multiple strands and reduce tangling by winding smaller amounts of yarn on plastic holders."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a yarn guide ring?",
+      "answer": "A yarn guide ring is worn on the finger to separate and guide multiple strands of yarn during colorwork, making it easier to manage tension."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "Do I need blocking pins for every project?",
+      "answer": "Not every item requires blocking, but lace, garments, and textured work benefit greatly. T-pins or rustproof pins help hold shapes securely."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a stitch holder and when is it used?",
+      "answer": "Stitch holders are like large safety pins used to hold live stitches temporarily, such as for sleeves, necklines, or shaping sections."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What are row counter rings and bracelets?",
+      "answer": "These wearable counters allow you to track rows manually by turning numbered dials or sliding beads, useful for portable projects."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "Are digital row counters better than manual ones?",
+      "answer": "Digital counters can be more accurate and easier to track if they include memory. Manual ones are simpler and don't need batteries."
+    },
+    {
+      "category": "Tools & accessories",
+      "question": "What is a knitting thimble?",
+      "answer": "A knitting thimble is a tool worn on the finger that helps tension multiple yarns during stranded colorwork, improving speed and consistency."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What is gauge in knitting and crochet?",
+      "answer": "Gauge refers to the number of stitches and rows per inch (or 4 inches) in your knitting or crochet. It ensures your project comes out the intended size."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Why is checking gauge important?",
+      "answer": "If your gauge doesn't match the pattern, your project may end up too large or too small. This is crucial for garments and fitted items."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "How do I check my gauge?",
+      "answer": "Knit or crochet a swatch using the recommended stitch pattern, then measure how many stitches and rows fit in a 4x4 inch (10x10 cm) square after blocking."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What is a gauge swatch?",
+      "answer": "A gauge swatch is a sample square of fabric made to test if your tension matches the pattern's gauge, helping ensure accurate sizing."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Should I wash and block my swatch before measuring?",
+      "answer": "Yes. Washing and blocking can change your fabric's size, especially with wool. Always measure gauge after treating the swatch as you would the final item."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What should I do if I have too many stitches per inch?",
+      "answer": "Switch to a larger needle or hook to loosen your stitches and reduce the stitch count per inch."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What should I do if I have too few stitches per inch?",
+      "answer": "Use a smaller needle or hook to tighten your stitches and increase the stitch count per inch."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Does yarn affect gauge?",
+      "answer": "Yes. Yarn thickness, twist, and fiber type all influence how tightly or loosely you knit or crochet, affecting your gauge."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What is tension in knitting?",
+      "answer": "Tension refers to how tightly or loosely you hold the yarn while knitting. It influences your gauge and the overall look of the fabric."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Can different knitters have different gauge with the same yarn and needles?",
+      "answer": "Yes. Every knitter has a unique style and tension. That's why checking your own gauge is essential for project accuracy."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "How does project type influence gauge requirements?",
+      "answer": "Garments and fitted pieces require precise gauge. Accessories like scarves can tolerate more variation unless pattern repeats matter."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What is row gauge and why does it matter?",
+      "answer": "Row gauge measures how many rows per inch. It's important in projects where vertical measurement affects shaping or pattern alignment."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "How do I measure row gauge accurately?",
+      "answer": "Use a ruler or gauge tool vertically across the swatch, counting rows in a 4-inch (10 cm) span for consistency."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Does blocking always change gauge?",
+      "answer": "It often does, especially with wool or lace patterns. Some fibers stretch more than others, so always block swatches before measuring."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What if my stitch gauge matches but my row gauge doesn't?",
+      "answer": "Follow stitch gauge and adjust the pattern length manually. You may need to add or subtract rows for the correct fit."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Can gauge change during a project?",
+      "answer": "Yes, due to fatigue, stress, or changes in yarn tension. Periodically measure your gauge or swatch again mid-project for large pieces."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What tools help with measuring gauge?",
+      "answer": "A gauge ruler or square template helps count stitches and rows. Some come with needle/hook sizers to check tool dimensions."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "What's the difference between gauge in knitting and crochet?",
+      "answer": "Both refer to stitches/rows per inch, but crochet tends to have more variation due to hook placement and stitch structure."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Should I swatch for non-garment projects?",
+      "answer": "It depends. For fitted or size-specific items like blankets or toys, yes. For flexible items like scarves, swatching is optional."
+    },
+    {
+      "category": "Gauge & tension",
+      "question": "Can tension issues cause curling or distortion?",
+      "answer": "Yes. Uneven tension can cause fabric to curl, pucker, or stretch unevenly. Practice and consistent yarn handling can improve tension over time."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is a knit stitch?",
+      "answer": "A knit stitch is the most basic stitch in knitting where the working yarn is pulled through the front of the stitch from left to right."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is a purl stitch?",
+      "answer": "A purl stitch is the reverse of a knit stitch, formed by pulling the working yarn through the back of the stitch from right to left."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I fix a dropped knit stitch?",
+      "answer": "Use a crochet hook to pull the dropped loop through each ladder rung back up to the needle. For multiple rows, repeat step-by-step from bottom to top."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I fix a dropped purl stitch?",
+      "answer": "Turn the work to the knit side, use a crochet hook to ladder the stitch back up as a knit stitch, then flip it back to purl orientation."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is an increase in knitting?",
+      "answer": "An increase adds a stitch to your work to shape or widen the fabric. Common methods include yarn over (YO), knit front and back (KFB), and make one (M1)."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is a decrease in knitting?",
+      "answer": "A decrease removes a stitch to shape or taper the fabric. Common decreases include knit two together (K2tog) and slip-slip-knit (SSK)."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is the difference between K2tog and SSK?",
+      "answer": "K2tog leans right and is faster, while SSK leans left and gives a mirrored decrease. They're often used together for symmetrical shaping."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I avoid twisting stitches?",
+      "answer": "Insert your needle correctly into the front or back loop as instructed. Consistency and paying attention to stitch orientation will help."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is a lifeline in knitting?",
+      "answer": "A lifeline is a piece of contrasting yarn or thread run through a row of stitches. It acts as a backup point to rip back to if needed."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I insert a lifeline?",
+      "answer": "Use a tapestry needle or insert the lifeline through the stitches on your needle. Some needles allow you to thread a lifeline automatically as you knit."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I fix twisted stitches?",
+      "answer": "Identify the twisted stitch and re-orient it correctly on the needle by slipping and turning it before working the next row."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How do I count rows in stockinette stitch?",
+      "answer": "Each V on the knit side represents one row. Count the Vs in a column to determine the number of rows."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is laddering in knitting?",
+      "answer": "Laddering happens when stitches drop and unravel vertically, creating a visible 'ladder'. Use a crochet hook to work the stitch back up."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What does yarn over (YO) mean?",
+      "answer": "Yarn over is a technique to create an intentional hole (eyelet) in the fabric and adds a stitch. It's often used in lace knitting."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How can I fix a mistake several rows back?",
+      "answer": "Use a lifeline if available, or carefully 'tink' (knit backward) stitch by stitch. For larger mistakes, you may need to frog (rip out) back to the error."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is 'tinking' in knitting?",
+      "answer": "Tinking is the act of undoing stitches one at a time by knitting backward. The word comes from 'knit' spelled backward."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What is 'frogging' in knitting?",
+      "answer": "Frogging means ripping out rows of stitches to correct a mistake. The name comes from 'rip it, rip it' which sounds like a frog's croak."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "How can I avoid holes when increasing stitches?",
+      "answer": "Use lifted increases or M1L/M1R techniques instead of yarn overs, unless the pattern calls for eyelets or decorative holes."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "What's the best way to practice stitch techniques?",
+      "answer": "Make practice swatches using scrap yarn to learn new stitches, correct mistakes, and improve consistency before starting a full project."
+    },
+    {
+      "category": "Stitch techniques & fixes",
+      "question": "Can I fix a mistake without ripping the entire row?",
+      "answer": "Yes. You can drop only the stitches in the problem area and use a crochet hook to rebuild them properly without undoing the entire row."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How should I store leftover yarn?",
+      "answer": "Store leftover yarn in labeled, breathable containers or zippered mesh bags. Avoid plastic if humidity is high, as it can trap moisture and cause mildew."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Is it okay to store yarn in plastic bins?",
+      "answer": "Plastic bins are fine in dry climates. Add silica gel packs to absorb moisture, and avoid sealing bins tightly if storing wool or natural fibers."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I protect yarn from moths?",
+      "answer": "Use lavender sachets, cedar blocks, or mothballs (with caution) in storage areas. Keep yarn clean, and store tightly in sealed containers."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "What is the best way to organize a large yarn stash?",
+      "answer": "Sort by fiber type, weight, or color in clear containers. Label each bin. Apps like Ravelry can help catalog your stash digitally."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I store wool garments during off-seasons?",
+      "answer": "Clean items before storage, fold with acid-free tissue, and place in airtight containers with cedar or lavender to repel pests."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Can humidity damage yarn?",
+      "answer": "Yes. Humidity can lead to mold, mildew, or weakening of natural fibers. Store yarn in a dry, cool place with airflow or desiccants."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Should I rewind yarn into cakes before storage?",
+      "answer": "No, store yarn in its original skein or hank form if not used soon. Cakes can stretch or deform over time, especially under weight."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I prevent tangling during storage?",
+      "answer": "Keep each skein or ball separate in its own bag or section. Use zip bags or mesh pouches for small balls to prevent mixing."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Is it safe to hang hand-knit items?",
+      "answer": "Avoid hanging, especially for heavy knits. Gravity can stretch them. Instead, fold flat and store on shelves or in drawers."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Can I vacuum-seal yarn or knits for long-term storage?",
+      "answer": "Avoid vacuum-sealing as it compresses and can damage fibers over time. Use breathable bags and avoid crushing the yarn structure."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I keep projects-in-progress organized?",
+      "answer": "Use project bags with pockets for yarn, tools, and notes. Keep pattern printouts or digital copies accessible for easy reference."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How long does yarn last in storage?",
+      "answer": "High-quality yarn stored properly can last for years. Avoid direct sunlight, pests, and moisture to extend its shelf life."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How should I store washed but unfinished knitted pieces?",
+      "answer": "Lay flat and store in clean, dry containers. Use tissue paper between layers to prevent snagging or creasing."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Do I need to store different fibers separately?",
+      "answer": "It's recommended. Wool needs more pest protection. Keep cotton, synthetics, and animal fibers in labeled, separate containers."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Can I store yarn in attics or basements?",
+      "answer": "Only if humidity and temperature are well-controlled. Use sealed bins with desiccants and monitor for signs of moisture or pests."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I clean and store vintage or heirloom knits?",
+      "answer": "Gently hand-wash with a wool-safe detergent, dry flat, and wrap in acid-free tissue. Store flat in archival-quality boxes or cotton bags."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Should I store blocking tools with my yarn?",
+      "answer": "Keep tools in a separate, organized box to prevent bending or loss. Moisture from yarn can corrode metal parts if stored together long term."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "How do I avoid yarn discoloration during storage?",
+      "answer": "Keep yarn away from sunlight, direct heat, or moisture. Avoid storing dyed and undyed yarns together without separation layers."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "What are signs that stored yarn is damaged?",
+      "answer": "Look for mold, a musty smell, moth holes, or brittle texture. Discard any infested yarn and clean nearby yarns with care."
+    },
+    {
+      "category": "Storage & preservation",
+      "question": "Is there a best temperature range for yarn storage?",
+      "answer": "Yes. Store yarn in cool, dry environments ideally between 15-21C (59-70F) with low humidity and no exposure to extreme heat."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What is eco-friendly yarn?",
+      "answer": "Eco-friendly yarns are produced with minimal environmental impact. They may be organic, plant-dyed, recycled, biodegradable, or sustainably sourced."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What are some sustainable yarn fibers?",
+      "answer": "Organic cotton, bamboo, hemp, linen, alpaca, and recycled wool are popular eco-conscious choices. Tencel and soy fibers are also biodegradable options."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Are synthetic yarns bad for the environment?",
+      "answer": "Synthetic yarns like acrylic and nylon are petroleum-based and non-biodegradable. They shed microplastics during washing, contributing to water pollution."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Can I recycle yarn from old sweaters?",
+      "answer": "Yes. Carefully unravel and re-skein yarn from unused garments. Wash and condition before reuse. This is a great zero-waste approach."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What is yarn upcycling?",
+      "answer": "Upcycling refers to reusing old yarn or fabric to create new projects, reducing waste and giving new life to materials that would otherwise be discarded."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "How can I reduce yarn waste?",
+      "answer": "Plan projects accurately, use leftovers in small crafts or colorwork, share or donate unused yarn, and swatch with purpose."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Are there biodegradable yarn options?",
+      "answer": "Yes. Natural fibers like wool, cotton, alpaca, and silk are biodegradable. Look for untreated yarns without synthetic blends or dyes."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What are low-impact yarn dyes?",
+      "answer": "Low-impact dyes use less water and are free from heavy metals and harmful chemicals. Plant-based and natural dyes are the most eco-friendly options."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "How do I wash knits with minimal environmental impact?",
+      "answer": "Use cold water, eco-friendly detergents, and wash less often. Air dry garments to conserve energy and extend fabric life."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What eco-friendly detergents are safe for yarn?",
+      "answer": "Eucalan, Soak, and homemade detergents with castile soap and essential oils are gentle, biodegradable, and yarn-safe options."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Can I compost yarn scraps?",
+      "answer": "Yes, but only if they're 100% natural fibers without synthetic content or dyes. Cut them into small pieces for faster decomposition."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Are bamboo knitting needles eco-friendly?",
+      "answer": "Yes. Bamboo grows rapidly without pesticides, making it a sustainable choice for needles and hooks. Look for brands using ethical harvesting."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What packaging should I look for in eco-conscious yarn brands?",
+      "answer": "Choose brands with recyclable, compostable, or plastic-free packaging. Some companies use biodegradable wrap or ship in reusable bags."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Are handmade knits more sustainable than store-bought clothes?",
+      "answer": "Often yes. They avoid fast fashion waste, can last longer, and allow for eco-conscious material choices and personalized care."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "How can I support eco-conscious yarn brands?",
+      "answer": "Research their sourcing, certifications (GOTS, OEKO-TEX), and environmental commitments. Support local and small-scale dyers when possible."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What is slow fashion and how does knitting contribute to it?",
+      "answer": "Slow fashion promotes mindful garment production and longevity. Knitting supports it by enabling handmade, customized, and thoughtful apparel."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Can I reuse yarn labels and packaging?",
+      "answer": "Yes. Keep yarn labels for project tracking or reuse them for organizing. Recycle or compost biodegradable packaging when possible."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "What is the carbon footprint of wool?",
+      "answer": "Wool has a moderate footprint due to livestock farming, but its biodegradability and longevity can offset its impact compared to synthetics."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "Is hand-dyeing yarn eco-friendly?",
+      "answer": "It can be, especially with natural or low-impact dyes and water conservation practices. Small-batch dyers often use more sustainable methods."
+    },
+    {
+      "category": "Eco-friendly practices",
+      "question": "How can I make my entire knitting process more sustainable?",
+      "answer": "Choose eco-friendly yarn and tools, reduce waste, support ethical brands, reuse materials, wash garments responsibly, and recycle or donate leftovers."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What are common knitting abbreviations and what do they mean?",
+      "answer": "Some common abbreviations include K (knit), P (purl), YO (yarn over), K2tog (knit two together), SSK (slip, slip, knit), M1 (make one), CO (cast on), BO (bind off). Always refer to the pattern glossary."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is the best way to learn to knit as a beginner?",
+      "answer": "Start with simple patterns like scarves using worsted weight yarn and bamboo needles. Practice knit and purl stitches. Use online videos or join a local knitting group."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is the difference between knitting and crochet?",
+      "answer": "Knitting uses two needles and keeps multiple live stitches on the needle. Crochet uses one hook and completes each stitch before moving on. They create different textures and techniques."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "How do I convert a knitting pattern to crochet?",
+      "answer": "There is no direct stitch-for-stitch conversion due to structural differences. Focus on recreating the overall dimensions and design, using stitch equivalents and swatching extensively."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "Can I mix yarns of different weights in one project?",
+      "answer": "Yes, but swatching is crucial. Combine yarns in ways that maintain overall gauge and balance. Use texture or color blocking for aesthetic blending."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is the difference between DK and worsted weight yarn?",
+      "answer": "DK (double knitting) yarn is lighter than worsted. DK typically gets 22 sts per 4 inch on 4 mm needles, while worsted gets about 20 sts on 4.5-5 mm needles."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What are the best mobile apps for knitters?",
+      "answer": "Popular apps include KnitCompanion (pattern reader), Ravelry (project library and patterns), Row Counter, and LoveCrafts for yarn shopping and community."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is second sock syndrome?",
+      "answer": "It refers to losing motivation after completing one sock, making it difficult to knit the second. Knitting two socks at once or alternating rows can help."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What does 'frogging' mean in crochet or knitting?",
+      "answer": "Frogging is the process of ripping out rows of stitches to fix a mistake. The name comes from 'rip-it, rip-it', mimicking a frog's croak."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is the difference between superwash and non-superwash wool?",
+      "answer": "Superwash wool is treated to prevent felting and can be machine washed. Non-superwash wool requires hand-washing and may felt with agitation."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "Can I knit while traveling on a plane?",
+      "answer": "Yes, in most countries. Use circular or wooden needles. Check airline and country regulations before flying to avoid issues at security."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "How do I read a knitting chart?",
+      "answer": "Each square represents a stitch. Charts are read right to left for RS (right side) rows and left to right for WS (wrong side) rows. Symbols represent stitch types."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is a provisional cast-on?",
+      "answer": "It's a temporary cast-on that allows you to later pick up and work live stitches in the opposite direction. Great for seamless joins or grafting."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is blocking and when should I use it?",
+      "answer": "Blocking is the process of wetting or steaming your finished piece to shape and even stitches. Essential for lace, garments, and textured patterns."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "How can I prevent hand fatigue while knitting?",
+      "answer": "Take regular breaks, stretch hands and wrists, use ergonomic needles, and ensure good posture and lighting while working."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What is 'negative ease' in knitting?",
+      "answer": "Negative ease means the finished garment is smaller than the body measurement, allowing for a snug fit (e.g., socks or fitted sweaters)."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What's the difference between flat knitting and knitting in the round?",
+      "answer": "Flat knitting is back-and-forth rows with turning; it creates seams. Knitting in the round uses circular or DPNs to make seamless tubes (e.g., hats, sleeves)."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "Can I dye my own yarn at home?",
+      "answer": "Yes, using acid dyes for animal fibers or fiber-reactive dyes for cotton. Always wear gloves and ventilate your space. Natural dyes are also an option."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "How do I know how much yarn to buy for a project?",
+      "answer": "Check pattern yardage and fiber type. Buy extra if substituting yarn or color to account for dye lot differences and swatching."
+    },
+    {
+      "category": "Miscellaneous knitting topics",
+      "question": "What are the benefits of joining a knitting community or group?",
+      "answer": "Community offers support, shared knowledge, pattern inspiration, and motivation. It's also a great way to learn from experienced knitters."
+    }
+  ]
+}
