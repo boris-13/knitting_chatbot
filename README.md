@@ -1,4 +1,5 @@
 # Knitting Chatbot (Knibot) – FAQ RAG Backend
+## MSc Data ScienceL Business & Analytics - Master Thesis 
 
 This repository contains a Flask-based API that answers knitting questions using Retrieval-Augmented Generation (RAG)
 over a local FAISS vector index built from a JSON FAQ dataset.
